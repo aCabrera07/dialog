@@ -1,0 +1,27 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Introducción}{1}{section.1}%
+\contentsline {section}{\numberline {2}Objetivos}{1}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Objetivo central}{1}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Objetivos específicos}{1}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Justificación}{2}{section.3}%
+\contentsline {section}{\numberline {4}Estructura del documento}{2}{section.4}%
+\contentsline {section}{\numberline {5}Marco teórico}{3}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Diálogos en Jetpack Compose}{3}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Botones y acciones}{3}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Estado y recomposición}{3}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Flujo de estado y eventos}{4}{subsection.5.4}%
+\contentsline {section}{\numberline {6}Desarrollo}{4}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Revisión del proyecto inicial}{4}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Creación del botón centrado}{5}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Construcción del primer diálogo}{6}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Incorporación de la confirmación}{7}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}Incorporación de la cancelación}{8}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6.6}Condición de visibilidad}{9}{subsection.6.6}%
+\contentsline {subsection}{\numberline {6.7}Creación del estado}{10}{subsection.6.7}%
+\contentsline {subsection}{\numberline {6.8}Apertura del diálogo}{11}{subsection.6.8}%
+\contentsline {subsection}{\numberline {6.9}Cierre mediante la opción No}{12}{subsection.6.9}%
+\contentsline {subsection}{\numberline {6.10}Confirmación y resultado final}{13}{subsection.6.10}%
+\contentsline {section}{\numberline {7}Conclusiones}{14}{section.7}%
+\contentsline {section}{\numberline {8}Recomendaciones}{15}{section.8}%
+\contentsline {section}{\numberline {9}Anexos}{16}{section.9}%
+\contentsline {section}{\numberline {10}Referencias}{17}{section.10}%
